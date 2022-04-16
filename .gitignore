@@ -72,11 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-
-# MyProject List
-OpenWorldActionGame/Saved*
-OpenWorldActionGame/DerivedDataCache/*
-OpenWorldActionGame/Binaries/*
-OpenWorldActionGame/Intermediate/Config/*
-OpenWorldActionGame/Intermediate/Build/Win64/*
